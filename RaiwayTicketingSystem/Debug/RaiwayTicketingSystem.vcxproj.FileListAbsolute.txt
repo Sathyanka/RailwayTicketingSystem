@@ -1,0 +1,7 @@
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.vcxprojAssemblyReference.cache
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.Dashboard.resources
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.vcxproj.GenerateResource.cache
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.vcxproj.CopyComplete
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.Login.resources
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.Administration.resources
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.Reservation.resources

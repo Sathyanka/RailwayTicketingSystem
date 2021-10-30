@@ -1,0 +1,46 @@
+|My detaills
+|Name: G.G.P.S.Gunathilaka
+|Reg. No:ICT/17/18/017
+|
+|---------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Admin Login details for log in to the adminstraion form
+
+USER Name- admin
+PASSWORD-admin
+
+--------------------------------------------------------------------------
+
+
+***Small description about the system**
+* This system is created by using Visual studio.
+*MYSql DBMS is used for the database.
+
+This is a railway ticketing system for the Kelani Valley line.
+There are three main forms in this system.
+1.Dashboard form
+2.Login form
+3.Reservation form
+4.Administration form
+
+1.Dashboard form
+In this form there is two main butten. administrtion butten is used for open the administration form. Befor gointo the administration
+form Login form is opend to login. Only registered administretors allwos the administration form.By using above user name and password
+user can open the adminstration form.
+
+2.Login form
+Login form is designed for log into the administration form. It is connected with the mysql dtabase and when user add the user name and password
+check wherther it is correct or wrong by cheking the table called user_login in database.
+
+3.Reservation form
+This form is used for issue ticket.User can secrch sourece and destination from the comboboxes and dispaly all the trains which are available in listbox related with
+source and destinaton.
+When enter the number of ticket that customer wants it calculate the total price of tickets.
+
+4.Administration form
+This form is allows for admin only. By using this form admin can add new train details and update or delete an existing train.
+There is a feature to add a new administrater olso.

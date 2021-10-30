@@ -1,0 +1,11 @@
+﻿  pch.cpp
+D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\RaiwayTicketingSystem\Administration.h(1097,21): warning C4101: 'ex': unreferenced local variable
+  Administration.cpp
+  AssemblyInfo.cpp
+  Dashboard.cpp
+  Login.cpp
+  RaiwayTicketingSystem.cpp
+  Reservation.cpp
+  Generating Code...
+  Administration.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  RaiwayTicketingSystem.vcxproj -> D:\Year1 Semester 2\C++\Mini Project\RaiwayTicketingSystem\Debug\RaiwayTicketingSystem.exe
